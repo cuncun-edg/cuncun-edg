@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm cuncun-edg 🦊</h3>
+<h3 align="center">Hi 👋, I'm cuncun-edg 🐍</h3>
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/cuncun-edg">
